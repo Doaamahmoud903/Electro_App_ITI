@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861260530904",
+    "project_id": "electro-5dcb6",
+    "storage_bucket": "electro-5dcb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861260530904:android:58871060ee1912592103ad",
+        "android_client_info": {
+          "package_name": "com.example.electro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs45PU1SrJXhyp9p6UpjNBZazCXPmy3QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
